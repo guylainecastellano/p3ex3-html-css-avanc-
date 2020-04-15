@@ -1,0 +1,38 @@
+header{
+  background-image: url(../image/header.jpg);
+  background-size: cover;
+  height: 1300px;
+  display: flex;
+  justify-content: center;
+  align-items: center
+  }
+h1{
+  font-family: 'Playfair display', serif;
+  font-size: 20em;
+}
+#barredenavigation li {
+  display:inline; /*aligner les onglets */
+  list-style: none; /*retrait des puces */
+  text-align: center;
+  margin: 0 500px; /*espacement des onglets */
+}
+#barredenavigation a{
+  font-size: 70px;
+  font-weight: normal;
+  color: #ffffff
+}
+#barredenavigation button{
+  background-color: #4eabf5 /*fond bleu */
+}
+button, label, input{
+  font-size: 70px
+}
+h2{
+  font-size: 5em;
+  text-align: center;
+  background-color: #4eabf5
+}
+p{
+  font-size: 5em;
+  background-color: #4eabf5
+}
