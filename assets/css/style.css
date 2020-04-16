@@ -28,13 +28,12 @@ li > a:hover{
 nav{
   background-color: #84b9bd;
   height: 50px;
-  margin: -20px;
+  margin: -20px; 
 }
-
-div{
+#présentation{
   font-size: 3em;
   text-align: center;
   background-color:  #84b9bd;
-margin: 0 20em 0 20em
+  margin: 0 20em 0 20em /*on peut mettre padding: 10em*/
 
 }
